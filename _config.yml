@@ -1,1 +1,25 @@
 theme: jekyll-theme-cayman
+ <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        Heads Or Tails!! (to the death)
+    </header>
+
+    <main>
+         
+          <button id="btn">click</button>
+          <h2 id="id"></h2>
+    </main>
+
+   
+   
+<script src="app.js"></script>
+</body>
+</html>
